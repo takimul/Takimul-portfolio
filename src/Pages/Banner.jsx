@@ -48,8 +48,8 @@ const Banner = () => {
           className="bg-black w-full h-full hidden md:block "
         >
           <img
-{/*             src="https://i.ibb.co.com/nMyZVQN/Whats-App-Image-2025-01-05-at-1-58-12-PM.jpg" */}
-          src="https://i.postimg.cc/9FCYddXj/Chat-GPT-Image-Jul-2-2025-02-34-03-PM.png"
+        // src="https://i.ibb.co.com/nMyZVQN/Whats-App-Image-2025-01-05-at-1-58-12-PM.jpg" 
+          src="https://i.postimg.cc/cC005TTQ/Chat-GPT-Image-Jul-2-2025-02-34-03-PM.jpg"
             alt=""
             className="drop-shadow-2xl mx-auto"
           />
